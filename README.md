@@ -30,6 +30,10 @@ This repository contains the pre-registered analysis plan for testing the Balanc
 ## 🔗 Related Work
 - Full theory paper: [Your Zenodo links]
 - Contact: agoodsort@hotmail.com
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17420041.svg)](https://doi.org/10.5281/zenodo.17420041)
+
+---
+*This pre-registration establishes the analysis plan prior to testing. All hypotheses and success criteria are specified in advance.*
 
 ---
 *This pre-registration establishes the analysis plan prior to testing. All hypotheses and success criteria are specified in advance.*
